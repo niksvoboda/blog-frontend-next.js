@@ -1,7 +1,10 @@
 import { Main } from 'next/document';
 
 import MainContainer from '../components/MainContainer';
-
+/**
+ * 
+ * @returns рендер главной страницы
+ */
 
 const Index = () =>{
     
